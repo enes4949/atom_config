@@ -1,0 +1,1 @@
+{"source":".nuclide-select-list.select-list ol.list-group > li {\n  color: #9da5b4;\n}\n.nuclide-select-list.select-list ol.list-group > li.active {\n  background-color: #4d78cc;\n  color: rgba(255, 255, 255, 0.95);\n}\n.nuclide-select-list.select-list ol.list-group > li::before {\n  display: none !important;\n}\n"}

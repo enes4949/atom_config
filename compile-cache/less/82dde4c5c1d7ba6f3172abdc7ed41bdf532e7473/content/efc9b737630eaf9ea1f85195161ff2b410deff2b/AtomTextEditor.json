@@ -1,0 +1,1 @@
+{"digest":"49fdf1bfb2efea47c5af4b1310293c4625df36ea","css":".nuclide-text-editor-container {\n  flex-grow: 1;\n  position: relative;\n}\n.nuclide-text-editor-container atom-text-editor {\n  width: 100%;\n}\n.nuclide-text-editor-container.no-auto-grow atom-text-editor {\n  position: absolute;\n  height: 100%;\n}\n","imports":[],"version":1}

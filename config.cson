@@ -1,0 +1,72 @@
+"*":
+  Hydrogen:
+    autocomplete: false
+    importNotebookResults: false
+    importNotebookURI: false
+    statusBarKernelInfo: false
+  "atom-material-ui":
+    colors:
+      abaseColor: "#16b1fb"
+      accentColor: "#ebebeb"
+    tabs: {}
+    ui:
+      useAnimations: false
+  "autocomplete-python":
+    useKite: false
+    useSnippets: "all"
+  core:
+    audioBeep: false
+    autoHideMenuBar: true
+    automaticallyUpdate: false
+    disabledPackages: [
+      "git-diff"
+      "github"
+      "language-coffee-script"
+      "language-git"
+      "language-hyperlink"
+      "language-javascript"
+      "language-typescript"
+      "open-on-github"
+      "background-tips"
+      "Hydrogen"
+      "ide-python"
+      "linter"
+    ]
+    telemetryConsent: "limited"
+    themes: [
+      "atom-material-ui"
+      "atom-material-syntax"
+    ]
+    uriHandlerRegistration: "always"
+  editor:
+    fontSize: 27
+    scrollPastEnd: true
+  "exception-reporting":
+    userId: "c5d65398-6f41-4d22-8ad5-579e8b0f957d"
+  "ide-c-cpp": {}
+  "ide-ccls":
+    enableSemanticHighlighting: true
+  "ide-python":
+    pylsConfigurationSources: [
+      "pycodestyle"
+    ]
+    pylsPlugins:
+      autopep8:
+        enabled: false
+      flake8:
+        enabled: true
+      jedi_definition:
+        follow_builtin_imports: true
+        follow_imports: true
+      pycodestyle:
+        enabled: false
+      pydocstyle:
+        enabled: true
+      pyflakes:
+        enabled: false
+      pylint: {}
+  linter: {}
+  "linter-ui-default":
+    panelHeight: 300
+  welcome:
+    showOnStartup: false

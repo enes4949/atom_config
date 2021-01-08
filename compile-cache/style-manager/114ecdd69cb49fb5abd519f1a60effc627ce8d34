@@ -1,0 +1,1 @@
+{"source":".nuclide-btn-group {\n  display: flex;\n}\n.nuclide-task-button-container > .nuclide-btn-group > button:last-of-type {\n  margin-right: -2px;\n}\n"}
